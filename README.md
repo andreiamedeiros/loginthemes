@@ -1,4 +1,4 @@
-Formulário de Login com dois temas a escolher.
+<h1>Formulário de Login com dois temas a escolher.</h1>
 
 Neste projeto criei um formulário de login bem simples, mas o diferencial é a opção de o usuário escolher o tema. Fiz dois temas, a ação é feita através do Javascript, linguagem a qual estou aprendendo.
 
