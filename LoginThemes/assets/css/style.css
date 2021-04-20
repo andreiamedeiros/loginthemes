@@ -1,0 +1,83 @@
+body {
+	margin: 0;
+}
+p{
+	color: #383738;
+}
+h1 {
+	text-align: center;
+	color: #400335;
+	margin-top: 30px;
+}
+
+form {
+	width: 200px;
+	margin: 20px 0 0 20px;
+}
+input {
+	width: 200px;
+	border-radius: 5px;
+	margin-bottom: 15px;
+}
+input[type=radio] {
+	margin: 0 5px 0 0;
+	width: 10px;
+	float: left;
+}
+form p {
+	margin: 0;
+	font-size: 11px;
+}
+button {
+	border-radius: 5px;
+	width: 60px;
+	margin-top: 20px;
+	color: #400335;
+}
+#dark {
+	background-color: #1c0b19;
+	
+	color: #fff;
+}
+#light {
+	background-color: #fbe2f7;
+}
+.content {
+	margin: -160px 0 0 -165px; 
+    position: absolute; 
+    top: 50%;
+    left: 50%;   
+}
+.tema {
+	width: 200px;
+	text-align: center;
+	margin-left: 60px; 
+}
+.texto {
+	margin: 30px 0 0 45px;
+}
+/* FORMULÁRIO LIGHT*/
+.tema1 {
+	width: 330px;
+	height: 300px;
+	background-color: #fbe2f7;
+	border-radius: 20px;
+	border: 1px solid #590448;
+	box-shadow: 3px 2px 2px #856f81;
+}
+/* FORMULÁRIO DARK*/
+.tema2 {
+	width: 330px;
+	height: 300px;
+	background-color: #1c0b19;
+	border-radius: 20px;
+	border: 1px solid #000;
+	box-shadow: 3px 2px 2px #2b252a;
+}
+.tema2 h1 {
+	color: #febdf2;
+}
+.tema2 p {
+	color: #fff;
+}
+
